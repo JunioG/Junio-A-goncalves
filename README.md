@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junio A GOnçalves
-- 👀 I’m interested in aprender mais sobre programaçao 
+- 👋 Hi, I’m @Junio A  Gonçalves
+- 👀 I’m interested in aprender mais sobre programaçao
 - 🌱 I’m currently learning  (Com a DIO no Bootcamp inter)
 - Estou Aberto Ao Aprendizado e as Dicas 
